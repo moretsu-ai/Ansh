@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.ans.fitness.app-debug-56:/drawable_ans_logo.png.flat",
+        "source": "com.ans.fitness.app-main-58:/drawable/ans_logo.png"
+    },
+    {
+        "merged": "com.ans.fitness.app-debug-56:/drawable_logo.png.flat",
+        "source": "com.ans.fitness.app-main-58:/drawable/logo.png"
+    }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ans.fitness.FitnessLogicTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-11-09T18:14:17.915Z" hostname="Prakhars-MacBook-Air.local" time="0.014">
+  <properties/>
+  <testcase name="loop4_testCatalogMuscleCoverage" classname="com.ans.fitness.FitnessLogicTest" time="0.009"/>
+  <testcase name="loop1_testLocalLogoExistsInRootAndDrawable" classname="com.ans.fitness.FitnessLogicTest" time="0.0"/>
+  <testcase name="loop2_testModeFiltering" classname="com.ans.fitness.FitnessLogicTest" time="0.0"/>
+  <testcase name="loop2_test50PercentStreakCompletionRule" classname="com.ans.fitness.FitnessLogicTest" time="0.0"/>
+  <testcase name="loop3_testHealthyBmiReferenceBandRange" classname="com.ans.fitness.FitnessLogicTest" time="0.0"/>
+  <testcase name="loop1_testBmiCalculationOnboarding" classname="com.ans.fitness.FitnessLogicTest" time="0.0"/>
+  <testcase name="loop1_testZeroPreloadedUserData" classname="com.ans.fitness.FitnessLogicTest" time="0.001"/>
+  <testcase name="loop4_testRestDaysHardValidationRule" classname="com.ans.fitness.FitnessLogicTest" time="0.003"/>
+  <testcase name="loop3_testWaterIncrementVolume" classname="com.ans.fitness.FitnessLogicTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
